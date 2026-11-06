@@ -26,7 +26,10 @@
         "Warranty",
         "5-year manufacturer"
       ]
-    ]
+    ],
+    "sku": "SHU065150050",
+    "price": 119,
+    "ship": "parcel"
   },
   {
     "id": "renogy-100w-flexible",
@@ -55,7 +58,10 @@
         "Weight",
         "5.3 lbs"
       ]
-    ]
+    ],
+    "sku": "RNG-100DB-H-US",
+    "price": 149,
+    "ship": "parcel"
   },
   {
     "id": "renogy-200w-ntype",
@@ -84,7 +90,10 @@
         "Use",
         "12V/24V off-grid systems"
       ]
-    ]
+    ],
+    "sku": "RSP200DC",
+    "price": 189,
+    "ship": "parcel"
   },
   {
     "id": "enphase-iq8mc",
@@ -113,7 +122,10 @@
         "Warranty",
         "25-year limited (manufacturer)"
       ]
-    ]
+    ],
+    "sku": "IQ8MC-72-M-US",
+    "price": 189,
+    "ship": "parcel"
   },
   {
     "id": "renogy-dcdc-40a-mppt",
@@ -138,7 +150,10 @@
         "System voltage",
         "12 V"
       ]
-    ]
+    ],
+    "sku": "RBC40D1S-US",
+    "price": 209,
+    "ship": "parcel"
   },
   {
     "id": "victron-mppt-150-35",
@@ -167,7 +182,10 @@
         "Warranty",
         "5-year manufacturer"
       ]
-    ]
+    ],
+    "sku": "SCC115035210",
+    "price": 219,
+    "ship": "parcel"
   },
   {
     "id": "renogy-100ah-mini-heat",
@@ -196,7 +214,10 @@
         "Expandable",
         "Series/parallel"
       ]
-    ]
+    ],
+    "sku": "RBT12100LFP-H-US",
+    "price": 359,
+    "ship": "parcel"
   },
   {
     "id": "bluetti-ac180",
@@ -225,7 +246,10 @@
         "Warranty",
         "5-year manufacturer"
       ]
-    ]
+    ],
+    "sku": "AC180",
+    "price": 529,
+    "ship": "parcel"
   },
   {
     "id": "jackery-1000-v2",
@@ -250,7 +274,10 @@
         "Includes",
         "AC charging cable"
       ]
-    ]
+    ],
+    "sku": "E1000v2",
+    "price": 589,
+    "ship": "parcel"
   },
   {
     "id": "renogy-400w-kit",
@@ -275,7 +302,10 @@
         "Includes",
         "Cables, Z-brackets, fuse"
       ]
-    ]
+    ],
+    "sku": "RKIT400",
+    "price": 649,
+    "ship": "freight"
   },
   {
     "id": "ecoflow-delta-3-plus",
@@ -300,7 +330,10 @@
         "Expandable",
         "With DELTA 3 Series extra battery"
       ]
-    ]
+    ],
+    "sku": "DELTA3PLUS",
+    "price": 749,
+    "ship": "parcel"
   },
   {
     "id": "enphase-iq-combiner-5",
@@ -325,7 +358,10 @@
         "Enclosure",
         "NEMA 3R outdoor"
       ]
-    ]
+    ],
+    "sku": "X-IQ-AM1-240-5",
+    "price": 749,
+    "ship": "freight"
   },
   {
     "id": "jackery-1000-v2-solar",
@@ -346,7 +382,10 @@
         "Includes",
         "AC cable, solar charging cable"
       ]
-    ]
+    ],
+    "sku": "SG1000v2-200",
+    "price": 879,
+    "ship": "parcel"
   },
   {
     "id": "ecoflow-delta-3-plus-220",
@@ -367,7 +406,10 @@
         "Solar recharge",
         "≈6 hours in good sun"
       ]
-    ]
+    ],
+    "sku": "DELTA3PLUS-220",
+    "price": 949,
+    "ship": "parcel"
   },
   {
     "id": "renogy-100ah-4pack",
@@ -392,7 +434,10 @@
         "Feature",
         "Self-heating"
       ]
-    ]
+    ],
+    "sku": "RBT12100LFP-4PK",
+    "price": 1319,
+    "ship": "freight"
   },
   {
     "id": "eg4-6000xp",
@@ -417,7 +462,10 @@
         "Warranty",
         "5-year manufacturer"
       ]
-    ]
+    ],
+    "sku": "EG4-6000XP",
+    "price": 1549,
+    "ship": "freight"
   },
   {
     "id": "eg4-lifepower4",
@@ -442,7 +490,10 @@
         "Mounting",
         "Server rack"
       ]
-    ]
+    ],
+    "sku": "EG4LIFPOW4-48",
+    "price": 1699,
+    "ship": "freight"
   },
   {
     "id": "renogy-400w-complete",
@@ -467,7 +518,10 @@
         "Use",
         "RV, van, cabin"
       ]
-    ]
+    ],
+    "sku": "RKIT400-2.4K",
+    "price": 1899,
+    "ship": "freight"
   },
   {
     "id": "anker-f3800-plus",
@@ -492,7 +546,10 @@
         "Charging",
         "High-efficiency solar input"
       ]
-    ]
+    ],
+    "sku": "A1790P",
+    "price": 2599,
+    "ship": "freight"
   },
   {
     "id": "eg4-wallmount-280",
@@ -517,7 +574,10 @@
         "Warranty",
         "10-year manufacturer"
       ]
-    ]
+    ],
+    "sku": "EG4-WM-280",
+    "price": 2799,
+    "ship": "freight"
   },
   {
     "id": "ecoflow-delta-pro-3",
@@ -542,7 +602,10 @@
         "Certification",
         "UL9540"
       ]
-    ]
+    ],
+    "sku": "DELTAPRO3",
+    "price": 2899,
+    "ship": "freight"
   },
   {
     "id": "ecoflow-delta-pro-3-400",
@@ -563,7 +626,10 @@
         "Solar charge",
         "≈12.8 hrs with 400W panel"
       ]
-    ]
+    ],
+    "sku": "DELTAPRO3-400",
+    "price": 3399,
+    "ship": "freight"
   },
   {
     "id": "eg4-18kpv",
@@ -592,7 +658,10 @@
         "Enclosure",
         "NEMA 4X"
       ]
-    ]
+    ],
+    "sku": "EG4-18KPV-12LV",
+    "price": 4099,
+    "ship": "freight"
   },
   {
     "id": "enphase-iq-battery-5p",
@@ -621,7 +690,10 @@
         "Includes",
         "Base unit, cover, wall bracket"
       ]
-    ]
+    ],
+    "sku": "IQBATTERY-5P-1P-NA",
+    "price": 4099,
+    "ship": "freight"
   },
   {
     "id": "canadian-solar-410-pallet",
@@ -650,7 +722,10 @@
         "Dimensions",
         "76.4 × 41.3 × 1.38 in"
       ]
-    ]
+    ],
+    "sku": "CS3N-410MS-PLT30",
+    "price": 4690,
+    "ship": "pallet"
   },
   {
     "id": "ecoflow-delta-pro-3-backup",
@@ -675,7 +750,10 @@
         "Use",
         "Home backup"
       ]
-    ]
+    ],
+    "sku": "DELTAPRO3-EB-400",
+    "price": 5299,
+    "ship": "freight"
   },
   {
     "id": "sol-ark-15k",
@@ -700,7 +778,10 @@
         "Battery",
         "48 V"
       ]
-    ]
+    ],
+    "sku": "SOL-ARK-15K-2P-US",
+    "price": 5999,
+    "ship": "freight"
   },
   {
     "id": "anker-f3800-home-kit",
@@ -725,7 +806,10 @@
         "Installation",
         "Electrician required for panel"
       ]
-    ]
+    ],
+    "sku": "A1790P-SHPK",
+    "price": 6199,
+    "ship": "freight"
   },
   {
     "id": "eg4-whole-home-bundle",
@@ -750,7 +834,10 @@
         "Installation",
         "Licensed electrician required"
       ]
-    ]
+    ],
+    "sku": "QS-EG4-WHB-14",
+    "price": 6999,
+    "ship": "freight"
   },
   {
     "id": "rec-430-pallet",
@@ -775,7 +862,10 @@
         "Warranty",
         "25-year product & performance (manufacturer)"
       ]
-    ]
+    ],
+    "sku": "REC430AA-PURE-R-PLT36",
+    "price": 7690,
+    "ship": "pallet"
   },
   {
     "id": "anker-dual-f3800-kit",
@@ -800,6 +890,9 @@
         "Installation",
         "Electrician required for panel"
       ]
-    ]
+    ],
+    "sku": "A1790P-2-SHPK",
+    "price": 7999,
+    "ship": "freight"
   }
 ]
