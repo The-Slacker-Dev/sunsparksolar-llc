@@ -7,7 +7,7 @@ type Product = typeof catalog[number]
 type Cart = Record<string, number>
 const phone = '+1 509 302 8240'
 const tel = '+15093028240'
-const email = 'support@sunsparksolarllc.com'
+const email = 'support@sunsparksolar-llc.com'
 const address = '609 S Buchanan St, Kennewick, WA 99336'
 const money = (value: number) => value.toLocaleString('en-US', { style: 'currency', currency: 'USD' })
 const shippingRates: Record<string, number> = { parcel: 0, freight: 249, pallet: 399 }
