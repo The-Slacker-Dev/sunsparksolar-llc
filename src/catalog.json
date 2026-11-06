@@ -1,0 +1,805 @@
+[
+  {
+    "id": "victron-smartshunt-500a",
+    "name": "Victron SmartShunt 500A/50mV IP65",
+    "brand": "Victron Energy",
+    "cat": "accessories",
+    "desc": "Bluetooth battery monitor that reports state of charge, voltage, current and time-to-go for 12–48V battery banks.",
+    "specs": [
+      [
+        "Current rating",
+        "500 A continuous"
+      ],
+      [
+        "Voltage range",
+        "6.5–70 VDC"
+      ],
+      [
+        "Connectivity",
+        "Bluetooth (VictronConnect app)"
+      ],
+      [
+        "Enclosure",
+        "IP65"
+      ],
+      [
+        "Warranty",
+        "5-year manufacturer"
+      ]
+    ]
+  },
+  {
+    "id": "renogy-100w-flexible",
+    "name": "Renogy 100W 12V Lightweight Flexible Solar Panel",
+    "brand": "Renogy",
+    "cat": "panels",
+    "desc": "Thin, bendable monocrystalline panel for RVs, boats and curved roofs where rigid frames will not fit.",
+    "specs": [
+      [
+        "Max power",
+        "100 W ±3%"
+      ],
+      [
+        "Vmp / Imp",
+        "20.7 V / 4.84 A"
+      ],
+      [
+        "Voc / Isc",
+        "24.4 V / 5.16 A"
+      ],
+      [
+        "Dimensions",
+        "43.0 × 22.9 × 0.1 in"
+      ],
+      [
+        "Weight",
+        "5.3 lbs"
+      ]
+    ]
+  },
+  {
+    "id": "renogy-200w-ntype",
+    "name": "Renogy 200W 12V N-Type Rigid Solar Panel",
+    "brand": "Renogy",
+    "cat": "panels",
+    "desc": "High-efficiency N-type monocrystalline module with an aluminum frame for off-grid cabins, sheds and RV roofs.",
+    "specs": [
+      [
+        "Max power",
+        "200 W"
+      ],
+      [
+        "Cell type",
+        "N-type monocrystalline"
+      ],
+      [
+        "Frame",
+        "Anodized aluminum"
+      ],
+      [
+        "Connector",
+        "MC4"
+      ],
+      [
+        "Use",
+        "12V/24V off-grid systems"
+      ]
+    ]
+  },
+  {
+    "id": "enphase-iq8mc",
+    "name": "Enphase IQ8MC Microinverter (IQ8MC-72-M-US)",
+    "brand": "Enphase Energy",
+    "cat": "inverters",
+    "desc": "Grid-forming microinverter for 54/60/72-cell modules, one per panel, with integrated MC4 connectors.",
+    "specs": [
+      [
+        "Peak output",
+        "330 VA"
+      ],
+      [
+        "Grid",
+        "240/208V split phase"
+      ],
+      [
+        "Module compatibility",
+        "54/108, 60/120, 72/144 cell"
+      ],
+      [
+        "Connectors",
+        "Integrated MC4"
+      ],
+      [
+        "Warranty",
+        "25-year limited (manufacturer)"
+      ]
+    ]
+  },
+  {
+    "id": "renogy-dcdc-40a-mppt",
+    "name": "Renogy 12V 40A DC-DC Battery Charger with MPPT",
+    "brand": "Renogy",
+    "cat": "inverters",
+    "desc": "Charges a house battery from both your vehicle alternator and solar panels, with lithium activation.",
+    "specs": [
+      [
+        "Charge current",
+        "40 A"
+      ],
+      [
+        "Inputs",
+        "Alternator + solar (MPPT)"
+      ],
+      [
+        "Battery types",
+        "LiFePO4, AGM, gel, flooded"
+      ],
+      [
+        "System voltage",
+        "12 V"
+      ]
+    ]
+  },
+  {
+    "id": "victron-mppt-150-35",
+    "name": "Victron SmartSolar MPPT 150/35 Charge Controller",
+    "brand": "Victron Energy",
+    "cat": "inverters",
+    "desc": "Bluetooth MPPT solar charge controller for 12/24/36/48V batteries with ultra-fast tracking.",
+    "specs": [
+      [
+        "Max PV voltage",
+        "150 V"
+      ],
+      [
+        "Charge current",
+        "35 A"
+      ],
+      [
+        "Battery voltage",
+        "12/24/36/48 V auto"
+      ],
+      [
+        "Connectivity",
+        "Built-in Bluetooth"
+      ],
+      [
+        "Warranty",
+        "5-year manufacturer"
+      ]
+    ]
+  },
+  {
+    "id": "renogy-100ah-mini-heat",
+    "name": "Renogy 12.8V 100Ah Mini LiFePO4 Battery (Self-Heating)",
+    "brand": "Renogy",
+    "cat": "batteries",
+    "desc": "Compact lithium iron phosphate battery with low-temperature self-heating for year-round off-grid use.",
+    "specs": [
+      [
+        "Capacity",
+        "100 Ah / 1.28 kWh"
+      ],
+      [
+        "Chemistry",
+        "LiFePO4"
+      ],
+      [
+        "Peak surge",
+        "300 A"
+      ],
+      [
+        "Feature",
+        "Self-heating for cold charging"
+      ],
+      [
+        "Expandable",
+        "Series/parallel"
+      ]
+    ]
+  },
+  {
+    "id": "bluetti-ac180",
+    "name": "BLUETTI AC180 Portable Power Station (1,152Wh)",
+    "brand": "BLUETTI",
+    "cat": "power-stations",
+    "desc": "LiFePO4 power station with 1,800W continuous output and 11 outlets for camping, job sites and outages.",
+    "specs": [
+      [
+        "Capacity",
+        "1,152 Wh LiFePO4"
+      ],
+      [
+        "Output",
+        "1,800 W (2,700 W surge)"
+      ],
+      [
+        "Outlets",
+        "11"
+      ],
+      [
+        "Weight",
+        "35.3 lbs"
+      ],
+      [
+        "Warranty",
+        "5-year manufacturer"
+      ]
+    ]
+  },
+  {
+    "id": "jackery-1000-v2",
+    "name": "Jackery Explorer 1000 v2 Portable Power Station",
+    "brand": "Jackery",
+    "cat": "power-stations",
+    "desc": "Lightweight 1kWh LFP power station with 1,500W output and ChargeShield 2.0 fast charging.",
+    "specs": [
+      [
+        "Capacity",
+        "1,024 Wh LiFePO4"
+      ],
+      [
+        "Output",
+        "1,500 W"
+      ],
+      [
+        "Battery life",
+        "10+ years"
+      ],
+      [
+        "Includes",
+        "AC charging cable"
+      ]
+    ]
+  },
+  {
+    "id": "renogy-400w-kit",
+    "name": "Renogy 400W 12V Solar Panel Kit",
+    "brand": "Renogy",
+    "cat": "kits",
+    "desc": "Four N-type panels with charge controller, cabling and mounting hardware for RV and cabin systems.",
+    "specs": [
+      [
+        "Array",
+        "4 × 100 W N-type panels"
+      ],
+      [
+        "Controller",
+        "MPPT charge controller"
+      ],
+      [
+        "System voltage",
+        "12 V"
+      ],
+      [
+        "Includes",
+        "Cables, Z-brackets, fuse"
+      ]
+    ]
+  },
+  {
+    "id": "ecoflow-delta-3-plus",
+    "name": "EcoFlow DELTA 3 Plus Portable Power Station",
+    "brand": "EcoFlow",
+    "cat": "power-stations",
+    "desc": "1kWh power station with 1,800W output and under-10ms UPS switchover to protect electronics.",
+    "specs": [
+      [
+        "Capacity",
+        "1,024 Wh"
+      ],
+      [
+        "Output",
+        "1,800 W"
+      ],
+      [
+        "UPS switchover",
+        "<10 ms"
+      ],
+      [
+        "Expandable",
+        "With DELTA 3 Series extra battery"
+      ]
+    ]
+  },
+  {
+    "id": "enphase-iq-combiner-5",
+    "name": "Enphase IQ Combiner 5",
+    "brand": "Enphase Energy",
+    "cat": "accessories",
+    "desc": "Pre-wired interconnection enclosure with IQ Gateway for IQ8 microinverter systems.",
+    "specs": [
+      [
+        "Function",
+        "PV combining, monitoring, metering"
+      ],
+      [
+        "Compatibility",
+        "IQ Series microinverters"
+      ],
+      [
+        "Includes",
+        "IQ Gateway"
+      ],
+      [
+        "Enclosure",
+        "NEMA 3R outdoor"
+      ]
+    ]
+  },
+  {
+    "id": "jackery-1000-v2-solar",
+    "name": "Jackery Explorer 1000 v2 + SolarSaga 200W Solar Generator",
+    "brand": "Jackery",
+    "cat": "kits",
+    "desc": "Explorer 1000 v2 power station bundled with a 200W foldable SolarSaga panel and solar cable.",
+    "specs": [
+      [
+        "Power station",
+        "Explorer 1000 v2 (1,024 Wh)"
+      ],
+      [
+        "Panel",
+        "SolarSaga 200W foldable"
+      ],
+      [
+        "Includes",
+        "AC cable, solar charging cable"
+      ]
+    ]
+  },
+  {
+    "id": "ecoflow-delta-3-plus-220",
+    "name": "EcoFlow DELTA 3 Plus + 220W Portable Solar Panel",
+    "brand": "EcoFlow",
+    "cat": "kits",
+    "desc": "DELTA 3 Plus with a 220W bifacial portable panel for full solar recharge in about six hours.",
+    "specs": [
+      [
+        "Power station",
+        "DELTA 3 Plus (1,024 Wh)"
+      ],
+      [
+        "Panel",
+        "220W bifacial portable"
+      ],
+      [
+        "Solar recharge",
+        "≈6 hours in good sun"
+      ]
+    ]
+  },
+  {
+    "id": "renogy-100ah-4pack",
+    "name": "Renogy 12.8V 100Ah Mini LiFePO4 Battery – 4 Pack (5.12 kWh)",
+    "brand": "Renogy",
+    "cat": "batteries",
+    "desc": "Four self-heating 100Ah lithium batteries for a 5.12 kWh 12V, 24V or 48V bank.",
+    "specs": [
+      [
+        "Total capacity",
+        "400 Ah @12.8V / 5.12 kWh"
+      ],
+      [
+        "Chemistry",
+        "LiFePO4"
+      ],
+      [
+        "Configuration",
+        "Series or parallel"
+      ],
+      [
+        "Feature",
+        "Self-heating"
+      ]
+    ]
+  },
+  {
+    "id": "eg4-6000xp",
+    "name": "EG4 6000XP Off-Grid Inverter (48V Split Phase)",
+    "brand": "EG4 Electronics",
+    "cat": "inverters",
+    "desc": "All-in-one 6kW off-grid inverter/charger with built-in MPPT for cabins and backup systems.",
+    "specs": [
+      [
+        "Output",
+        "6,000 W, 120/240V split phase"
+      ],
+      [
+        "Battery",
+        "48 V"
+      ],
+      [
+        "Solar",
+        "Built-in MPPT"
+      ],
+      [
+        "Warranty",
+        "5-year manufacturer"
+      ]
+    ]
+  },
+  {
+    "id": "eg4-lifepower4",
+    "name": "EG4 LifePower4 48V 100Ah Server Rack Battery (5.12 kWh)",
+    "brand": "EG4 Electronics",
+    "cat": "batteries",
+    "desc": "Rack-mountable 48V lithium iron phosphate battery with 100A internal BMS.",
+    "specs": [
+      [
+        "Capacity",
+        "5.12 kWh (51.2V 100Ah)"
+      ],
+      [
+        "BMS",
+        "100 A internal"
+      ],
+      [
+        "Certifications",
+        "UL1973, UL9540A"
+      ],
+      [
+        "Mounting",
+        "Server rack"
+      ]
+    ]
+  },
+  {
+    "id": "renogy-400w-complete",
+    "name": "Renogy 400W 12V Complete Kit with 2.4 kWh Batteries",
+    "brand": "Renogy",
+    "cat": "kits",
+    "desc": "Panels, controller, inverter and 2.4 kWh of lithium storage in a single matched off-grid package.",
+    "specs": [
+      [
+        "Array",
+        "400 W"
+      ],
+      [
+        "Storage",
+        "2.4 kWh LiFePO4"
+      ],
+      [
+        "System voltage",
+        "12 V"
+      ],
+      [
+        "Use",
+        "RV, van, cabin"
+      ]
+    ]
+  },
+  {
+    "id": "anker-f3800-plus",
+    "name": "Anker SOLIX F3800 Plus Portable Power Station (3,840Wh)",
+    "brand": "Anker SOLIX",
+    "cat": "power-stations",
+    "desc": "3.84 kWh home backup power station with 6,000W output and 120/240V support.",
+    "specs": [
+      [
+        "Capacity",
+        "3,840 Wh LiFePO4"
+      ],
+      [
+        "Output",
+        "6,000 W, 120/240V"
+      ],
+      [
+        "Expandable",
+        "Up to 53.8 kWh"
+      ],
+      [
+        "Charging",
+        "High-efficiency solar input"
+      ]
+    ]
+  },
+  {
+    "id": "eg4-wallmount-280",
+    "name": "EG4 WallMount Indoor Battery 48V 280Ah (14.3 kWh)",
+    "brand": "EG4 Electronics",
+    "cat": "batteries",
+    "desc": "Wall-mounted 14.3 kWh LiFePO4 home battery with integrated self-heating.",
+    "specs": [
+      [
+        "Capacity",
+        "14.3 kWh"
+      ],
+      [
+        "Voltage",
+        "48 V, 280 Ah"
+      ],
+      [
+        "Certifications",
+        "UL1973, UL9540A"
+      ],
+      [
+        "Warranty",
+        "10-year manufacturer"
+      ]
+    ]
+  },
+  {
+    "id": "ecoflow-delta-pro-3",
+    "name": "EcoFlow DELTA Pro 3 Portable Power Station",
+    "brand": "EcoFlow",
+    "cat": "power-stations",
+    "desc": "4 kWh UL9540-certified power station with 4,000W output, expandable to 48 kWh.",
+    "specs": [
+      [
+        "Capacity",
+        "4,096 Wh (expandable to 48 kWh)"
+      ],
+      [
+        "Output",
+        "4,000 W"
+      ],
+      [
+        "Charging",
+        "7 methods"
+      ],
+      [
+        "Certification",
+        "UL9540"
+      ]
+    ]
+  },
+  {
+    "id": "ecoflow-delta-pro-3-400",
+    "name": "EcoFlow DELTA Pro 3 + 400W Solar Panel",
+    "brand": "EcoFlow",
+    "cat": "kits",
+    "desc": "DELTA Pro 3 bundled with a 400W portable solar panel for off-grid recharging.",
+    "specs": [
+      [
+        "Power station",
+        "DELTA Pro 3 (4 kWh)"
+      ],
+      [
+        "Panel",
+        "400 W portable"
+      ],
+      [
+        "Solar charge",
+        "≈12.8 hrs with 400W panel"
+      ]
+    ]
+  },
+  {
+    "id": "eg4-18kpv",
+    "name": "EG4 18kPV Hybrid Inverter (48V Split Phase)",
+    "brand": "EG4 Electronics",
+    "cat": "inverters",
+    "desc": "Whole-home hybrid inverter: grid-tie, off-grid and backup with 12kW continuous output.",
+    "specs": [
+      [
+        "Continuous output",
+        "12,000 W"
+      ],
+      [
+        "PV input",
+        "Up to 21,000 W recommended, 3 MPPT"
+      ],
+      [
+        "Battery",
+        "48 V"
+      ],
+      [
+        "Certification",
+        "UL1741, CEC listed"
+      ],
+      [
+        "Enclosure",
+        "NEMA 4X"
+      ]
+    ]
+  },
+  {
+    "id": "enphase-iq-battery-5p",
+    "name": "Enphase IQ Battery 5P (5.0 kWh)",
+    "brand": "Enphase Energy",
+    "cat": "batteries",
+    "desc": "AC-coupled 5 kWh home battery for Enphase IQ8 systems. Professional installation required.",
+    "specs": [
+      [
+        "Usable capacity",
+        "5.0 kWh"
+      ],
+      [
+        "Continuous power",
+        "3.84 kW"
+      ],
+      [
+        "Peak",
+        "7.68 kVA"
+      ],
+      [
+        "Enclosure",
+        "NEMA 3R"
+      ],
+      [
+        "Includes",
+        "Base unit, cover, wall bracket"
+      ]
+    ]
+  },
+  {
+    "id": "canadian-solar-410-pallet",
+    "name": "Canadian Solar 410W Panel CS3N-410MS – Pallet of 30 (12.3 kW)",
+    "brand": "Canadian Solar",
+    "cat": "panels",
+    "desc": "Full pallet of 30 Tier-1 monocrystalline modules for residential and small commercial arrays.",
+    "specs": [
+      [
+        "Per panel",
+        "410 W, 132 half-cell mono"
+      ],
+      [
+        "Pallet",
+        "30 panels / 12.3 kW"
+      ],
+      [
+        "Voc",
+        "44.9 V"
+      ],
+      [
+        "Efficiency",
+        "20.2%"
+      ],
+      [
+        "Dimensions",
+        "76.4 × 41.3 × 1.38 in"
+      ]
+    ]
+  },
+  {
+    "id": "ecoflow-delta-pro-3-backup",
+    "name": "EcoFlow DELTA Pro 3 + Extra Battery + 400W Panel (8 kWh)",
+    "brand": "EcoFlow",
+    "cat": "kits",
+    "desc": "8 kWh backup system with solar recharging for extended home outages.",
+    "specs": [
+      [
+        "Capacity",
+        "8 kWh"
+      ],
+      [
+        "Output",
+        "4,000 W"
+      ],
+      [
+        "Panel",
+        "400 W portable"
+      ],
+      [
+        "Use",
+        "Home backup"
+      ]
+    ]
+  },
+  {
+    "id": "sol-ark-15k",
+    "name": "Sol-Ark 15K-2P Hybrid Inverter (48V)",
+    "brand": "Sol-Ark",
+    "cat": "inverters",
+    "desc": "15kW whole-home hybrid inverter with dual 200A grid pass-through and 48V battery support.",
+    "specs": [
+      [
+        "AC output",
+        "15 kW, 120/240V"
+      ],
+      [
+        "Grid pass-through",
+        "Dual 200 A"
+      ],
+      [
+        "MPPTs",
+        "3, up to 19.5 kW PV"
+      ],
+      [
+        "Battery",
+        "48 V"
+      ]
+    ]
+  },
+  {
+    "id": "anker-f3800-home-kit",
+    "name": "Anker SOLIX F3800 Plus + Smart Home Power Kit",
+    "brand": "Anker SOLIX",
+    "cat": "kits",
+    "desc": "F3800 Plus with a smart transfer panel for automatic backup of selected household circuits.",
+    "specs": [
+      [
+        "Capacity",
+        "3,840 Wh"
+      ],
+      [
+        "Output",
+        "6,000 W"
+      ],
+      [
+        "Includes",
+        "Smart Home Power Kit (transfer panel)"
+      ],
+      [
+        "Installation",
+        "Electrician required for panel"
+      ]
+    ]
+  },
+  {
+    "id": "eg4-whole-home-bundle",
+    "name": "EG4 Whole-Home Backup Bundle: 18kPV + 14.3 kWh WallMount",
+    "brand": "EG4 Electronics",
+    "cat": "kits",
+    "desc": "EG4 18kPV hybrid inverter matched with one 14.3 kWh WallMount Indoor battery and communication cables.",
+    "specs": [
+      [
+        "Inverter",
+        "EG4 18kPV (12 kW continuous)"
+      ],
+      [
+        "Storage",
+        "14.3 kWh LiFePO4"
+      ],
+      [
+        "Includes",
+        "Battery comms & power cables"
+      ],
+      [
+        "Installation",
+        "Licensed electrician required"
+      ]
+    ]
+  },
+  {
+    "id": "rec-430-pallet",
+    "name": "REC Alpha Pure-R 430W HJT Panel – Pallet of 36 (15.5 kW)",
+    "brand": "REC Group",
+    "cat": "panels",
+    "desc": "Premium heterojunction modules with 22.3% efficiency, sold by the full pallet.",
+    "specs": [
+      [
+        "Per panel",
+        "430 W, N-type HJT"
+      ],
+      [
+        "Pallet",
+        "36 panels / 15.48 kW"
+      ],
+      [
+        "Efficiency",
+        "22.3%"
+      ],
+      [
+        "Warranty",
+        "25-year product & performance (manufacturer)"
+      ]
+    ]
+  },
+  {
+    "id": "anker-dual-f3800-kit",
+    "name": "2× Anker SOLIX F3800 Plus + Smart Home Power Kit",
+    "brand": "Anker SOLIX",
+    "cat": "kits",
+    "desc": "Two linked F3800 Plus units (7.68 kWh) with smart transfer panel for whole-home circuits.",
+    "specs": [
+      [
+        "Capacity",
+        "7,680 Wh"
+      ],
+      [
+        "Output",
+        "Up to 12,000 W"
+      ],
+      [
+        "Includes",
+        "Smart Home Power Kit"
+      ],
+      [
+        "Installation",
+        "Electrician required for panel"
+      ]
+    ]
+  }
+]
